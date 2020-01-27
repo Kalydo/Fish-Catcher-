@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fish Catcher!", "Fish Catcher!\Fish Catcher!.csproj", "{495E2313-28D5-4E4D-AF3F-D331D63A482D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{495E2313-28D5-4E4D-AF3F-D331D63A482D}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{495E2313-28D5-4E4D-AF3F-D331D63A482D}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{495E2313-28D5-4E4D-AF3F-D331D63A482D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495E2313-28D5-4E4D-AF3F-D331D63A482D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85A8DF0A-8306-4DA0-8708-BF11765BFFCF}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
